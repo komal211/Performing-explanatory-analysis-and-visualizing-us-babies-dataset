@@ -31,9 +31,6 @@ Following questions are answered using explanatory data analysis and data visual
 -->multiple plot in same figure
 
 Python Libraries used
-
 -->pandas
-
 -->matplotlib.pyplot
-
 -->numpy
